@@ -6,7 +6,8 @@
 -  Gives detailed analysis report on the types on various manipulations occurring on images.
 
 ###### Dataset - Kaggle-casia-dataset (CASIA 2)
-
+## DEMO (Gif)-
+![](Docufy.gif)
 ## Docufy_All_Files
 Run app.py - 
 > DOCUFY-DOCKER\flask-docker\Docufy\app.py
