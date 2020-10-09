@@ -8,7 +8,7 @@
 ###### Dataset - Kaggle-casia-dataset (CASIA 2)
 ## DEMO (Gif)-
 
-![DOCUFY EDITED IMAGE DEMO](Docufy2.gif)
+![#e3e3e3](Docufy2.gif)
 
 ## Docufy_All_Files
 Run app.py - 
