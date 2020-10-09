@@ -7,7 +7,9 @@
 
 ###### Dataset - Kaggle-casia-dataset (CASIA 2)
 ## DEMO (Gif)-
-> ![DOCUFY EDITED IMAGE DEMO](Docufy2.gif)
+<kbd>
+![DOCUFY EDITED IMAGE DEMO](Docufy2.gif)
+</kbd>
 ## Docufy_All_Files
 Run app.py - 
 > DOCUFY-DOCKER\flask-docker\Docufy\app.py
