@@ -6,7 +6,7 @@
 -  Gives detailed analysis report on the types on various manipulations occurring on images.
 
 ###### Dataset - Kaggle-casia-dataset (CASIA 2)
-####### https://www.kaggle.com/sophatvathana/casia-dataset
+###### https://www.kaggle.com/sophatvathana/casia-dataset
 ## DEMO (Gif)-
 
 ![#Docufy- Upload Tampered image](Docufy2.gif)
