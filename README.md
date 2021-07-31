@@ -11,6 +11,8 @@
 
 ![#Docufy- Upload Tampered image](Docufy2.gif)
 
+
+##Video Link - https://youtu.be/DeZsJW4qUoM
 ## Docufy_All_Files
 Run app.py - 
 > DOCUFY-DOCKER\flask-docker\Docufy\app.py
